@@ -1,0 +1,501 @@
+﻿Customer_ID,Age,Gender,Location,Monthly_Income (USD),Preferred_Flavour,Subscription_Plan,Monthly_Consumption (bottles),Satisfaction_Rating (1-5),Purchase_Intent_Next_Month
+1,56,Male,Ajman,8878,Chocolate,Standard,18,4,Yes
+2,46,Female,Dubai,2822,Mango,Premium,11,4,Yes
+3,32,Male,Ajman,2943,Chocolate,Standard,13,1,Yes
+4,25,Male,Abu Dhabi,8097,Berry,Basic,29,1,No
+5,38,Male,Sharjah,8150,Mint,Basic,19,3,Yes
+6,56,Male,Dubai,6425,Citrus,Standard,11,4,Yes
+7,36,Male,Dubai,2774,Mint,Premium,4,5,Yes
+8,40,Male,Abu Dhabi,9840,Chocolate,Premium,15,2,Yes
+9,28,Male,Sharjah,4198,Citrus,Basic,8,3,No
+10,28,Female,Ajman,5156,Chocolate,Premium,6,1,No
+11,41,Male,Sharjah,6242,Berry,Standard,4,3,No
+12,53,Male,Abu Dhabi,5695,Mango,Standard,7,3,No
+13,57,Female,Abu Dhabi,5452,Citrus,Basic,11,3,No
+14,41,Female,Sharjah,2914,Berry,Standard,6,3,No
+15,20,Female,Ajman,7667,Berry,Basic,13,2,No
+16,39,Male,Ajman,3308,Citrus,Standard,5,4,No
+17,19,Female,Dubai,8843,Chocolate,Basic,14,5,No
+18,41,Male,Ajman,6177,Berry,Premium,28,3,No
+19,47,Male,Sharjah,2513,Mint,Standard,13,3,No
+20,55,Male,Abu Dhabi,3920,Berry,Standard,24,3,No
+21,19,Male,Dubai,8958,Chocolate,Basic,17,4,No
+22,38,Female,Dubai,8852,Chocolate,Basic,10,1,No
+23,50,Female,Abu Dhabi,8035,Mint,Standard,5,1,No
+24,29,Male,Ajman,5594,Berry,Basic,12,2,No
+25,39,Male,Abu Dhabi,6841,Chocolate,Standard,19,1,Yes
+26,42,Male,Ajman,9166,Citrus,Premium,16,3,No
+27,44,Female,Abu Dhabi,3409,Mango,Basic,12,3,Yes
+28,59,Male,Sharjah,6802,Mango,Standard,23,3,No
+29,45,Male,Ajman,6566,Mango,Premium,7,2,No
+30,33,Female,Sharjah,5190,Berry,Premium,25,3,Yes
+31,32,Female,Dubai,6491,Mint,Standard,13,1,No
+32,20,Male,Abu Dhabi,3555,Chocolate,Basic,29,4,Yes
+33,54,Female,Dubai,8404,Citrus,Standard,29,4,Yes
+34,24,Female,Dubai,2804,Citrus,Premium,25,5,Yes
+35,38,Male,Dubai,7029,Berry,Standard,15,1,No
+36,26,Female,Dubai,3279,Mango,Basic,20,3,No
+37,56,Male,Abu Dhabi,7853,Berry,Premium,17,4,No
+38,35,Female,Dubai,7000,Mint,Standard,17,1,Yes
+39,21,Male,Abu Dhabi,9393,Mint,Basic,28,4,Yes
+40,42,Male,Abu Dhabi,7172,Chocolate,Premium,5,3,No
+41,31,Male,Sharjah,9083,Chocolate,Basic,24,4,No
+42,26,Female,Ajman,7986,Mint,Premium,28,5,No
+43,43,Male,Ajman,7619,Mint,Standard,23,5,No
+44,19,Female,Abu Dhabi,5577,Mint,Basic,14,4,No
+45,37,Male,Sharjah,4901,Berry,Premium,19,1,Yes
+46,45,Male,Abu Dhabi,3387,Mint,Basic,22,1,Yes
+47,24,Female,Abu Dhabi,7399,Citrus,Basic,26,1,Yes
+48,25,Male,Abu Dhabi,6688,Mango,Standard,9,4,No
+49,52,Male,Sharjah,4761,Mint,Basic,27,1,Yes
+50,31,Female,Ajman,9325,Mango,Premium,22,3,Yes
+51,34,Male,Sharjah,4679,Berry,Premium,8,5,Yes
+52,53,Male,Dubai,4106,Mango,Premium,29,3,Yes
+53,57,Male,Sharjah,9894,Berry,Premium,7,1,Yes
+54,21,Male,Sharjah,6223,Citrus,Standard,18,3,No
+55,19,Female,Sharjah,6831,Berry,Basic,7,1,Yes
+56,23,Female,Sharjah,4768,Berry,Standard,23,4,No
+57,59,Male,Ajman,5953,Chocolate,Basic,13,3,No
+58,21,Female,Dubai,5186,Mint,Basic,27,4,No
+59,46,Male,Ajman,5280,Mint,Basic,25,4,No
+60,35,Female,Ajman,4573,Citrus,Standard,6,2,No
+61,43,Male,Sharjah,6616,Citrus,Basic,29,1,Yes
+62,51,Male,Abu Dhabi,4599,Mint,Standard,8,5,Yes
+63,27,Male,Abu Dhabi,6033,Chocolate,Premium,9,1,No
+64,53,Male,Ajman,2236,Mint,Premium,24,5,No
+65,31,Male,Ajman,3304,Chocolate,Basic,25,1,No
+66,48,Male,Sharjah,5430,Citrus,Standard,11,4,Yes
+67,32,Female,Ajman,9368,Mango,Premium,10,3,No
+68,25,Male,Sharjah,7877,Citrus,Standard,24,3,Yes
+69,31,Female,Abu Dhabi,3301,Citrus,Standard,13,2,No
+70,40,Male,Abu Dhabi,9402,Berry,Basic,9,5,Yes
+71,57,Female,Dubai,4541,Berry,Premium,17,5,No
+72,38,Female,Abu Dhabi,4051,Berry,Basic,7,5,Yes
+73,33,Female,Ajman,8809,Berry,Basic,28,4,No
+74,35,Male,Abu Dhabi,2441,Chocolate,Premium,16,5,Yes
+75,41,Male,Sharjah,4076,Mint,Premium,23,3,Yes
+76,43,Female,Abu Dhabi,5180,Mango,Standard,20,4,Yes
+77,42,Male,Dubai,4657,Citrus,Premium,26,1,Yes
+78,58,Female,Abu Dhabi,5798,Chocolate,Standard,10,5,Yes
+79,46,Male,Sharjah,2804,Mango,Standard,7,5,Yes
+80,32,Female,Sharjah,2074,Chocolate,Standard,17,1,Yes
+81,18,Female,Ajman,8981,Chocolate,Premium,6,5,No
+82,42,Male,Abu Dhabi,9313,Citrus,Basic,27,1,No
+83,24,Female,Sharjah,4175,Mint,Standard,8,4,No
+84,26,Male,Dubai,5924,Berry,Basic,19,3,No
+85,41,Female,Ajman,4089,Mint,Basic,29,1,No
+86,18,Female,Dubai,7475,Citrus,Premium,26,2,Yes
+87,25,Male,Abu Dhabi,2040,Citrus,Basic,23,1,Yes
+88,41,Male,Abu Dhabi,9077,Citrus,Basic,7,5,Yes
+89,28,Male,Abu Dhabi,4081,Mango,Premium,27,4,Yes
+90,34,Female,Ajman,9184,Mint,Standard,27,4,Yes
+91,25,Male,Sharjah,7796,Mint,Basic,5,1,No
+92,52,Female,Ajman,9320,Chocolate,Premium,21,3,No
+93,52,Female,Dubai,9141,Chocolate,Basic,22,2,No
+94,50,Male,Ajman,7497,Chocolate,Basic,22,4,No
+95,22,Male,Dubai,6683,Citrus,Standard,20,5,Yes
+96,59,Female,Ajman,3622,Mint,Basic,17,5,Yes
+97,56,Female,Sharjah,9796,Citrus,Premium,22,3,Yes
+98,58,Male,Dubai,2341,Mango,Basic,25,4,No
+99,45,Male,Abu Dhabi,6052,Chocolate,Standard,27,1,Yes
+100,24,Male,Abu Dhabi,4074,Citrus,Standard,16,5,No
+101,26,Male,Ajman,9992,Citrus,Premium,15,3,Yes
+102,25,Male,Abu Dhabi,9454,Mango,Standard,29,4,Yes
+103,29,Female,Dubai,2645,Berry,Basic,9,4,No
+104,51,Female,Abu Dhabi,6826,Mint,Standard,24,4,Yes
+105,50,Female,Sharjah,6263,Berry,Premium,7,4,Yes
+106,40,Female,Sharjah,2609,Chocolate,Standard,22,4,No
+107,41,Male,Ajman,8411,Citrus,Standard,19,5,Yes
+108,54,Male,Dubai,7868,Mango,Standard,16,3,No
+109,52,Male,Sharjah,8136,Mango,Premium,7,4,Yes
+110,57,Female,Sharjah,8964,Mint,Standard,26,2,Yes
+111,39,Female,Dubai,2454,Berry,Standard,20,2,Yes
+112,44,Male,Abu Dhabi,4953,Mint,Basic,26,3,Yes
+113,52,Male,Abu Dhabi,3708,Citrus,Premium,4,1,Yes
+114,18,Female,Ajman,5472,Mint,Standard,21,1,Yes
+115,52,Female,Abu Dhabi,4969,Mango,Premium,23,1,Yes
+116,54,Male,Dubai,5028,Mango,Standard,20,2,Yes
+117,31,Male,Sharjah,9643,Chocolate,Standard,18,1,No
+118,20,Female,Abu Dhabi,6797,Chocolate,Standard,14,5,No
+119,18,Male,Ajman,4681,Citrus,Basic,28,4,Yes
+120,22,Male,Abu Dhabi,5629,Berry,Basic,25,2,Yes
+121,43,Male,Dubai,7695,Mint,Basic,16,3,No
+122,31,Female,Ajman,6225,Citrus,Premium,4,3,Yes
+123,56,Female,Abu Dhabi,5067,Chocolate,Premium,20,4,Yes
+124,44,Female,Ajman,7941,Mint,Basic,9,2,No
+125,26,Female,Dubai,3386,Chocolate,Premium,7,1,Yes
+126,32,Female,Sharjah,5776,Mint,Standard,23,1,Yes
+127,32,Female,Dubai,4866,Berry,Standard,19,5,No
+128,43,Female,Dubai,6788,Citrus,Standard,18,5,Yes
+129,59,Male,Dubai,5363,Mint,Basic,18,1,Yes
+130,30,Male,Dubai,7490,Mango,Premium,9,3,No
+131,49,Male,Sharjah,6889,Mango,Basic,18,3,Yes
+132,56,Male,Sharjah,6124,Mint,Premium,17,5,No
+133,49,Male,Ajman,2148,Mint,Standard,14,4,Yes
+134,21,Male,Abu Dhabi,5850,Mint,Basic,10,1,Yes
+135,47,Male,Sharjah,7415,Mango,Premium,12,5,No
+136,54,Female,Sharjah,4058,Mango,Premium,29,5,No
+137,40,Female,Abu Dhabi,9679,Mint,Standard,19,1,Yes
+138,56,Male,Sharjah,8819,Chocolate,Basic,8,1,No
+139,32,Male,Dubai,3136,Chocolate,Basic,28,3,No
+140,46,Female,Dubai,2186,Berry,Basic,23,4,Yes
+141,53,Male,Abu Dhabi,4854,Citrus,Standard,13,4,Yes
+142,30,Male,Ajman,8887,Chocolate,Basic,21,1,Yes
+143,49,Female,Ajman,3250,Mango,Standard,6,2,No
+144,24,Male,Abu Dhabi,3333,Chocolate,Standard,16,5,No
+145,39,Female,Abu Dhabi,6193,Berry,Standard,14,5,No
+146,45,Male,Dubai,6150,Berry,Premium,20,1,No
+147,19,Female,Ajman,8766,Citrus,Basic,25,2,Yes
+148,59,Female,Sharjah,4711,Chocolate,Basic,16,3,No
+149,23,Female,Dubai,6853,Mango,Standard,9,1,Yes
+150,45,Male,Abu Dhabi,6501,Mango,Standard,20,1,No
+151,45,Female,Ajman,8212,Mint,Basic,16,5,Yes
+152,37,Male,Sharjah,9479,Mango,Standard,22,1,Yes
+153,47,Male,Sharjah,7408,Citrus,Basic,24,1,Yes
+154,28,Male,Dubai,3785,Citrus,Premium,22,1,No
+155,45,Male,Ajman,9715,Mango,Standard,13,5,Yes
+156,42,Female,Ajman,2750,Mango,Basic,6,3,Yes
+157,56,Female,Abu Dhabi,9315,Mint,Standard,17,3,No
+158,50,Male,Ajman,9634,Mango,Basic,29,1,Yes
+159,18,Male,Ajman,3762,Mint,Basic,22,5,No
+160,44,Female,Dubai,9411,Mint,Standard,8,3,No
+161,30,Male,Ajman,9658,Mango,Premium,8,3,Yes
+162,58,Female,Sharjah,5920,Berry,Basic,23,3,Yes
+163,20,Male,Dubai,9101,Berry,Basic,20,5,No
+164,56,Male,Dubai,9674,Mint,Basic,24,5,Yes
+165,23,Female,Abu Dhabi,6460,Mango,Premium,13,1,No
+166,25,Male,Ajman,8122,Berry,Premium,8,4,No
+167,44,Female,Abu Dhabi,2481,Mango,Standard,7,3,No
+168,26,Male,Sharjah,8344,Mango,Premium,9,4,Yes
+169,54,Male,Dubai,2153,Mango,Standard,29,5,No
+170,50,Male,Dubai,9617,Chocolate,Standard,7,5,Yes
+171,59,Female,Dubai,3524,Mango,Premium,10,5,Yes
+172,41,Male,Sharjah,4120,Chocolate,Standard,10,4,Yes
+173,32,Male,Sharjah,8856,Mint,Premium,21,5,Yes
+174,49,Male,Abu Dhabi,4343,Berry,Standard,6,1,No
+175,49,Male,Abu Dhabi,7136,Berry,Premium,4,5,Yes
+176,41,Female,Abu Dhabi,7760,Berry,Premium,27,2,No
+177,58,Female,Ajman,3240,Berry,Standard,28,4,No
+178,29,Male,Dubai,2060,Berry,Basic,7,2,Yes
+179,56,Female,Dubai,2938,Berry,Standard,9,5,No
+180,19,Male,Abu Dhabi,3639,Berry,Premium,12,1,No
+181,20,Male,Dubai,8185,Mint,Basic,25,3,Yes
+182,54,Male,Abu Dhabi,6120,Mango,Standard,17,5,No
+183,34,Female,Ajman,7158,Citrus,Standard,15,1,No
+184,19,Female,Ajman,9970,Chocolate,Standard,28,4,No
+185,19,Female,Sharjah,6226,Citrus,Basic,23,2,No
+186,45,Female,Ajman,5569,Citrus,Premium,27,2,Yes
+187,40,Female,Abu Dhabi,3252,Mango,Standard,28,2,No
+188,54,Female,Ajman,6203,Mango,Standard,7,4,No
+189,49,Female,Sharjah,2171,Mango,Standard,24,1,No
+190,50,Female,Dubai,3458,Berry,Standard,27,4,No
+191,18,Female,Abu Dhabi,5549,Mint,Standard,15,2,Yes
+192,36,Male,Dubai,6197,Berry,Premium,13,5,No
+193,19,Female,Sharjah,9009,Mint,Premium,25,3,Yes
+194,43,Female,Sharjah,8667,Mint,Standard,10,4,No
+195,49,Female,Sharjah,4322,Citrus,Basic,6,4,Yes
+196,23,Female,Dubai,3636,Citrus,Premium,26,1,Yes
+197,49,Female,Dubai,5115,Mint,Basic,17,1,Yes
+198,21,Female,Dubai,6090,Mint,Premium,27,4,Yes
+199,28,Female,Dubai,8960,Berry,Standard,13,2,Yes
+200,34,Female,Sharjah,5004,Berry,Premium,19,3,No
+201,55,Female,Sharjah,7136,Citrus,Standard,19,1,No
+202,41,Female,Abu Dhabi,2329,Mango,Premium,25,2,No
+203,22,Female,Abu Dhabi,5640,Mint,Standard,13,5,Yes
+204,51,Male,Dubai,5894,Berry,Standard,28,1,No
+205,23,Male,Ajman,7616,Citrus,Standard,16,2,Yes
+206,39,Female,Ajman,9982,Berry,Standard,9,2,Yes
+207,28,Female,Sharjah,6107,Mint,Basic,15,3,No
+208,33,Male,Sharjah,3341,Mint,Standard,12,3,No
+209,50,Female,Sharjah,5663,Chocolate,Basic,16,5,Yes
+210,26,Male,Abu Dhabi,2215,Mango,Basic,7,2,Yes
+211,23,Male,Abu Dhabi,2338,Chocolate,Standard,27,2,No
+212,33,Male,Sharjah,7895,Citrus,Basic,14,3,No
+213,46,Male,Sharjah,6062,Berry,Premium,23,1,No
+214,20,Male,Sharjah,4708,Citrus,Standard,21,1,No
+215,37,Female,Ajman,5152,Mint,Basic,29,4,Yes
+216,53,Male,Abu Dhabi,3750,Chocolate,Standard,14,3,No
+217,36,Female,Ajman,7604,Chocolate,Standard,28,4,No
+218,43,Female,Ajman,4421,Chocolate,Standard,24,3,No
+219,20,Male,Sharjah,9119,Citrus,Basic,7,5,Yes
+220,36,Male,Sharjah,2709,Mint,Premium,21,2,Yes
+221,37,Female,Dubai,7319,Berry,Premium,4,5,Yes
+222,49,Male,Dubai,9704,Berry,Basic,10,3,Yes
+223,24,Male,Ajman,8609,Citrus,Standard,9,2,No
+224,58,Female,Abu Dhabi,7208,Chocolate,Basic,18,1,Yes
+225,50,Female,Sharjah,7387,Mango,Basic,21,1,No
+226,57,Male,Sharjah,5726,Citrus,Basic,27,4,No
+227,56,Female,Ajman,5642,Citrus,Standard,14,3,No
+228,35,Male,Dubai,5993,Mint,Basic,23,3,No
+229,57,Male,Abu Dhabi,2488,Berry,Standard,27,1,Yes
+230,18,Male,Dubai,7657,Citrus,Basic,18,5,Yes
+231,28,Female,Dubai,2046,Citrus,Premium,19,2,Yes
+232,45,Female,Dubai,5359,Chocolate,Basic,10,5,No
+233,42,Female,Dubai,6873,Chocolate,Basic,24,5,No
+234,40,Female,Sharjah,7135,Mango,Premium,13,1,No
+235,48,Female,Sharjah,6806,Mint,Standard,29,1,No
+236,47,Male,Dubai,2400,Mango,Standard,15,1,No
+237,59,Male,Abu Dhabi,5990,Chocolate,Basic,27,4,Yes
+238,52,Male,Ajman,7913,Berry,Premium,17,5,No
+239,24,Male,Abu Dhabi,9124,Chocolate,Standard,28,3,Yes
+240,33,Female,Abu Dhabi,5157,Mint,Basic,8,2,No
+241,43,Male,Abu Dhabi,6345,Chocolate,Premium,29,4,No
+242,19,Female,Dubai,2390,Mint,Standard,24,3,Yes
+243,18,Male,Sharjah,5853,Mint,Standard,21,5,Yes
+244,29,Female,Abu Dhabi,6430,Mint,Premium,8,1,No
+245,22,Female,Dubai,2628,Mint,Premium,6,5,No
+246,54,Male,Abu Dhabi,9686,Mint,Premium,26,2,No
+247,49,Male,Abu Dhabi,6232,Berry,Premium,29,4,No
+248,26,Male,Dubai,4930,Mango,Basic,8,4,Yes
+249,58,Male,Sharjah,8831,Citrus,Premium,27,2,No
+250,52,Female,Sharjah,3521,Mango,Standard,20,3,Yes
+251,36,Male,Ajman,2826,Mint,Standard,22,3,No
+252,33,Male,Dubai,6822,Berry,Basic,22,4,Yes
+253,20,Female,Ajman,3500,Chocolate,Standard,28,4,Yes
+254,37,Male,Ajman,8737,Berry,Standard,24,1,No
+255,41,Male,Ajman,5294,Mint,Premium,15,3,Yes
+256,50,Male,Sharjah,7085,Berry,Standard,28,2,No
+257,41,Male,Dubai,4419,Berry,Basic,12,3,Yes
+258,28,Male,Ajman,2934,Mint,Premium,4,1,No
+259,25,Female,Dubai,5042,Berry,Premium,21,4,Yes
+260,53,Male,Dubai,6497,Citrus,Basic,24,4,No
+261,55,Male,Sharjah,3466,Citrus,Premium,7,1,No
+262,57,Male,Ajman,5561,Berry,Premium,13,2,Yes
+263,37,Male,Ajman,2614,Chocolate,Basic,28,4,Yes
+264,52,Male,Dubai,7392,Mint,Premium,10,5,Yes
+265,42,Female,Abu Dhabi,9693,Citrus,Basic,25,4,Yes
+266,52,Male,Sharjah,3182,Chocolate,Basic,26,5,No
+267,42,Female,Sharjah,5223,Berry,Standard,4,1,Yes
+268,46,Female,Sharjah,9138,Chocolate,Standard,20,1,No
+269,35,Male,Sharjah,4667,Mango,Premium,27,4,Yes
+270,35,Male,Ajman,8331,Citrus,Premium,5,3,No
+271,19,Male,Ajman,9980,Berry,Basic,29,5,No
+272,52,Male,Abu Dhabi,7217,Mint,Premium,14,2,No
+273,33,Female,Sharjah,2130,Berry,Basic,12,4,No
+274,58,Male,Sharjah,8948,Mint,Basic,10,2,Yes
+275,53,Male,Dubai,7290,Berry,Premium,25,4,Yes
+276,50,Male,Ajman,4983,Chocolate,Basic,20,3,No
+277,21,Male,Sharjah,9129,Chocolate,Standard,20,3,Yes
+278,50,Male,Abu Dhabi,6278,Chocolate,Premium,5,3,Yes
+279,31,Male,Abu Dhabi,9126,Mango,Standard,9,3,No
+280,38,Female,Ajman,6459,Mint,Premium,17,1,Yes
+281,37,Female,Abu Dhabi,2038,Chocolate,Basic,9,1,Yes
+282,25,Male,Abu Dhabi,9694,Mango,Premium,5,5,Yes
+283,24,Male,Ajman,5959,Mint,Standard,4,2,No
+284,20,Male,Sharjah,8640,Berry,Basic,13,4,Yes
+285,34,Female,Sharjah,5587,Mango,Premium,24,4,No
+286,50,Male,Abu Dhabi,7468,Citrus,Premium,8,1,Yes
+287,29,Female,Abu Dhabi,9125,Mango,Premium,5,4,Yes
+288,39,Male,Sharjah,2920,Mango,Standard,25,1,Yes
+289,39,Male,Ajman,9564,Mint,Standard,19,5,No
+290,47,Male,Abu Dhabi,4769,Berry,Premium,28,2,No
+291,55,Male,Dubai,9328,Citrus,Basic,5,5,Yes
+292,55,Female,Ajman,6111,Chocolate,Basic,13,3,No
+293,25,Female,Abu Dhabi,2492,Chocolate,Standard,5,3,Yes
+294,44,Male,Abu Dhabi,7545,Mango,Basic,19,3,No
+295,44,Male,Dubai,3131,Mint,Standard,19,5,No
+296,51,Female,Dubai,9037,Mint,Premium,22,4,Yes
+297,38,Female,Sharjah,5521,Chocolate,Standard,10,2,Yes
+298,47,Female,Ajman,2310,Citrus,Standard,25,3,Yes
+299,50,Female,Ajman,2738,Berry,Premium,15,3,Yes
+300,45,Male,Sharjah,5241,Citrus,Basic,27,3,No
+301,50,Female,Ajman,2545,Berry,Standard,18,2,No
+302,22,Male,Ajman,4461,Chocolate,Standard,11,3,No
+303,36,Female,Ajman,6346,Berry,Premium,9,2,Yes
+304,21,Female,Ajman,6854,Mint,Basic,13,3,Yes
+305,52,Female,Ajman,3804,Mango,Standard,6,5,No
+306,34,Female,Dubai,5212,Mango,Premium,22,5,Yes
+307,45,Female,Ajman,7393,Chocolate,Standard,20,2,No
+308,47,Male,Dubai,9583,Mint,Premium,10,5,No
+309,46,Male,Ajman,7727,Citrus,Basic,24,2,No
+310,23,Female,Sharjah,5810,Mint,Basic,23,5,No
+311,52,Female,Abu Dhabi,8010,Mango,Basic,29,5,No
+312,58,Male,Dubai,9206,Mango,Basic,7,2,Yes
+313,54,Female,Ajman,2813,Mint,Standard,17,4,Yes
+314,41,Female,Sharjah,6124,Mint,Standard,23,5,Yes
+315,46,Male,Abu Dhabi,7053,Mango,Basic,25,3,No
+316,48,Female,Dubai,4032,Citrus,Basic,18,4,No
+317,52,Female,Abu Dhabi,6572,Chocolate,Basic,27,2,No
+318,50,Male,Sharjah,6413,Chocolate,Standard,11,4,No
+319,38,Male,Dubai,2244,Mint,Basic,24,1,Yes
+320,49,Male,Abu Dhabi,6843,Chocolate,Basic,18,1,Yes
+321,40,Female,Ajman,6792,Mango,Basic,25,5,No
+322,50,Male,Dubai,2271,Mango,Premium,23,5,No
+323,20,Male,Abu Dhabi,5511,Mint,Basic,17,3,No
+324,35,Male,Sharjah,3771,Mint,Premium,12,4,Yes
+325,42,Male,Sharjah,3262,Mint,Premium,11,1,Yes
+326,59,Male,Dubai,4424,Citrus,Basic,29,5,Yes
+327,48,Male,Abu Dhabi,6361,Chocolate,Premium,29,4,No
+328,20,Female,Dubai,9069,Mint,Basic,20,5,No
+329,57,Female,Dubai,2920,Berry,Standard,5,5,Yes
+330,41,Male,Abu Dhabi,5430,Berry,Standard,28,1,No
+331,49,Male,Abu Dhabi,6435,Mango,Standard,27,1,Yes
+332,39,Male,Ajman,6484,Chocolate,Standard,6,5,No
+333,40,Female,Abu Dhabi,4624,Mint,Premium,11,2,Yes
+334,19,Female,Sharjah,5760,Berry,Basic,15,5,No
+335,44,Female,Dubai,4050,Chocolate,Basic,4,5,Yes
+336,59,Female,Dubai,5500,Mango,Basic,13,3,Yes
+337,19,Female,Sharjah,3165,Citrus,Standard,23,3,Yes
+338,43,Female,Abu Dhabi,2375,Chocolate,Standard,6,3,Yes
+339,34,Female,Sharjah,9837,Chocolate,Basic,9,2,Yes
+340,57,Female,Sharjah,4033,Citrus,Standard,10,2,Yes
+341,50,Female,Ajman,8467,Chocolate,Basic,23,5,No
+342,26,Male,Sharjah,2145,Mango,Basic,26,3,No
+343,56,Male,Dubai,8077,Mango,Basic,28,2,No
+344,46,Male,Sharjah,6388,Citrus,Basic,21,1,Yes
+345,59,Male,Dubai,9832,Mint,Basic,14,5,Yes
+346,43,Female,Dubai,2431,Berry,Basic,22,4,No
+347,52,Female,Dubai,2704,Mint,Basic,8,5,Yes
+348,42,Male,Abu Dhabi,9092,Chocolate,Standard,22,4,Yes
+349,41,Female,Ajman,8094,Berry,Basic,14,3,Yes
+350,30,Male,Dubai,4632,Citrus,Basic,27,4,Yes
+351,24,Female,Dubai,6494,Citrus,Standard,15,3,Yes
+352,53,Male,Abu Dhabi,8960,Berry,Standard,13,1,No
+353,37,Female,Dubai,9511,Mango,Standard,11,4,No
+354,18,Female,Sharjah,2963,Berry,Basic,27,5,No
+355,25,Male,Sharjah,9307,Chocolate,Premium,12,3,No
+356,33,Female,Ajman,4234,Mango,Premium,7,5,No
+357,31,Male,Dubai,4041,Citrus,Standard,8,2,Yes
+358,29,Male,Abu Dhabi,3828,Berry,Premium,24,3,Yes
+359,40,Male,Sharjah,4108,Mint,Standard,11,4,Yes
+360,32,Male,Abu Dhabi,6068,Mint,Basic,26,3,Yes
+361,45,Female,Abu Dhabi,2938,Chocolate,Premium,12,5,No
+362,51,Female,Sharjah,9547,Mint,Basic,18,1,No
+363,19,Female,Abu Dhabi,6805,Berry,Premium,18,3,No
+364,49,Male,Sharjah,2806,Berry,Basic,19,4,Yes
+365,40,Female,Abu Dhabi,3463,Mint,Premium,17,2,No
+366,39,Male,Sharjah,9486,Berry,Basic,11,1,Yes
+367,42,Female,Dubai,7421,Chocolate,Basic,21,2,No
+368,39,Female,Ajman,5415,Mango,Premium,13,3,No
+369,39,Female,Sharjah,2010,Chocolate,Basic,23,5,Yes
+370,59,Male,Sharjah,7181,Chocolate,Basic,9,5,Yes
+371,23,Female,Ajman,3868,Berry,Basic,15,4,No
+372,32,Female,Sharjah,8369,Mango,Premium,5,5,No
+373,54,Male,Sharjah,9320,Berry,Premium,10,1,Yes
+374,50,Female,Abu Dhabi,9878,Citrus,Basic,19,5,No
+375,25,Male,Ajman,8707,Berry,Basic,6,4,No
+376,22,Female,Dubai,6867,Berry,Premium,16,3,Yes
+377,56,Male,Sharjah,7690,Berry,Premium,6,3,No
+378,21,Male,Ajman,7703,Mango,Basic,21,5,Yes
+379,23,Female,Abu Dhabi,9827,Berry,Basic,14,2,No
+380,49,Male,Dubai,9742,Mango,Basic,11,3,Yes
+381,47,Male,Ajman,7429,Mint,Standard,9,5,No
+382,52,Male,Dubai,2884,Citrus,Premium,4,4,Yes
+383,57,Male,Dubai,9410,Mango,Standard,4,5,No
+384,33,Male,Dubai,5564,Mint,Premium,26,3,Yes
+385,30,Male,Sharjah,3389,Mango,Premium,11,4,No
+386,59,Female,Sharjah,5401,Mango,Premium,8,5,No
+387,47,Male,Abu Dhabi,9274,Citrus,Premium,19,1,No
+388,36,Male,Abu Dhabi,6321,Chocolate,Premium,14,4,No
+389,34,Female,Ajman,2824,Chocolate,Premium,8,1,No
+390,36,Female,Abu Dhabi,4265,Mango,Premium,7,2,No
+391,45,Female,Dubai,2936,Berry,Standard,9,4,No
+392,43,Female,Dubai,4800,Mint,Basic,17,1,No
+393,54,Female,Sharjah,4553,Berry,Basic,25,3,No
+394,43,Female,Dubai,8402,Berry,Standard,22,3,Yes
+395,40,Female,Ajman,8007,Mango,Standard,12,2,Yes
+396,26,Male,Dubai,5845,Mango,Standard,15,4,No
+397,29,Male,Dubai,9684,Mango,Standard,14,4,Yes
+398,18,Female,Ajman,3796,Mango,Premium,17,4,No
+399,18,Male,Abu Dhabi,2053,Chocolate,Basic,26,2,No
+400,51,Male,Abu Dhabi,9214,Mango,Premium,19,4,Yes
+401,49,Male,Ajman,2726,Chocolate,Basic,4,3,No
+402,42,Female,Sharjah,4736,Chocolate,Basic,16,1,No
+403,57,Female,Dubai,7640,Mango,Standard,26,3,Yes
+404,18,Male,Ajman,5170,Citrus,Premium,24,3,Yes
+405,33,Female,Dubai,7139,Mint,Standard,24,1,No
+406,56,Male,Sharjah,3913,Berry,Premium,16,3,Yes
+407,22,Male,Dubai,7872,Chocolate,Basic,5,2,Yes
+408,39,Male,Ajman,3596,Mint,Standard,7,1,No
+409,46,Male,Dubai,3914,Citrus,Standard,9,3,Yes
+410,20,Female,Abu Dhabi,9657,Berry,Basic,29,5,Yes
+411,29,Female,Sharjah,4466,Berry,Basic,26,3,No
+412,43,Female,Sharjah,4737,Chocolate,Basic,8,2,Yes
+413,33,Male,Sharjah,2849,Mango,Standard,28,4,Yes
+414,54,Female,Ajman,4109,Citrus,Premium,6,3,No
+415,39,Male,Sharjah,9312,Chocolate,Standard,4,4,No
+416,46,Female,Abu Dhabi,8359,Citrus,Premium,7,5,No
+417,31,Male,Ajman,2002,Mango,Standard,28,3,Yes
+418,45,Male,Abu Dhabi,6255,Mango,Standard,23,1,No
+419,22,Male,Dubai,9906,Chocolate,Basic,5,4,No
+420,47,Female,Dubai,6069,Mango,Premium,29,5,Yes
+421,22,Female,Dubai,6876,Mint,Standard,8,1,No
+422,29,Female,Dubai,9287,Berry,Standard,6,1,No
+423,33,Female,Abu Dhabi,2892,Chocolate,Basic,12,1,No
+424,43,Male,Ajman,4030,Citrus,Basic,23,1,No
+425,43,Female,Ajman,5160,Mint,Premium,9,3,Yes
+426,38,Female,Sharjah,4376,Chocolate,Standard,21,3,No
+427,56,Male,Abu Dhabi,6675,Mango,Premium,9,3,No
+428,53,Male,Dubai,3933,Mango,Standard,22,5,Yes
+429,50,Male,Abu Dhabi,3380,Mango,Premium,15,5,No
+430,47,Female,Sharjah,5681,Mango,Basic,28,5,Yes
+431,54,Male,Sharjah,3290,Citrus,Standard,14,2,Yes
+432,40,Male,Abu Dhabi,3640,Mint,Premium,5,5,Yes
+433,27,Male,Abu Dhabi,7047,Berry,Basic,18,3,No
+434,22,Female,Abu Dhabi,9490,Citrus,Basic,15,3,Yes
+435,53,Male,Ajman,4682,Citrus,Premium,15,2,Yes
+436,51,Female,Dubai,2987,Berry,Standard,12,2,Yes
+437,48,Female,Abu Dhabi,9708,Berry,Standard,24,5,No
+438,27,Male,Abu Dhabi,9816,Mango,Basic,27,4,No
+439,36,Male,Abu Dhabi,3218,Citrus,Standard,5,2,No
+440,49,Female,Sharjah,7016,Chocolate,Standard,25,1,No
+441,18,Male,Sharjah,8881,Berry,Standard,6,3,No
+442,22,Male,Ajman,3355,Berry,Basic,15,1,No
+443,21,Female,Dubai,6265,Mint,Premium,29,3,No
+444,33,Female,Ajman,6616,Chocolate,Standard,19,3,Yes
+445,41,Male,Dubai,7582,Chocolate,Basic,24,2,Yes
+446,33,Female,Sharjah,6135,Berry,Basic,27,2,Yes
+447,19,Male,Sharjah,3560,Mango,Premium,29,1,Yes
+448,45,Male,Sharjah,9428,Mint,Standard,4,3,No
+449,49,Male,Ajman,3418,Chocolate,Standard,24,1,Yes
+450,44,Female,Abu Dhabi,2954,Berry,Premium,6,4,Yes
+451,37,Male,Abu Dhabi,9393,Chocolate,Premium,23,1,Yes
+452,41,Male,Sharjah,2983,Mint,Basic,5,5,Yes
+453,29,Male,Abu Dhabi,9291,Mint,Basic,12,1,No
+454,52,Female,Abu Dhabi,2974,Citrus,Premium,22,5,No
+455,50,Female,Ajman,6133,Berry,Standard,18,5,No
+456,50,Female,Dubai,8471,Mint,Basic,21,5,Yes
+457,54,Female,Sharjah,7370,Citrus,Basic,29,4,No
+458,29,Female,Sharjah,5972,Citrus,Standard,14,1,Yes
+459,20,Male,Ajman,7295,Chocolate,Basic,28,1,No
+460,18,Female,Ajman,7721,Chocolate,Standard,26,4,No
+461,50,Female,Abu Dhabi,2913,Citrus,Standard,19,3,No
+462,57,Female,Sharjah,6549,Chocolate,Standard,25,2,No
+463,27,Male,Dubai,2036,Mint,Premium,20,1,No
+464,46,Female,Ajman,5387,Mango,Premium,8,2,Yes
+465,30,Female,Dubai,3711,Mint,Premium,15,4,No
+466,29,Male,Dubai,5020,Citrus,Standard,14,3,Yes
+467,48,Female,Sharjah,2795,Citrus,Standard,18,3,Yes
+468,19,Male,Sharjah,6036,Mint,Premium,6,3,Yes
+469,52,Male,Ajman,7068,Chocolate,Basic,4,4,Yes
+470,40,Male,Sharjah,6688,Chocolate,Standard,23,5,Yes
+471,34,Male,Sharjah,7233,Citrus,Basic,19,5,No
+472,43,Male,Sharjah,5111,Berry,Basic,5,2,No
+473,25,Female,Dubai,3324,Chocolate,Standard,5,5,No
+474,46,Male,Ajman,8367,Mint,Standard,6,5,No
+475,43,Male,Abu Dhabi,2317,Chocolate,Basic,11,3,Yes
+476,27,Female,Dubai,4396,Mint,Basic,27,3,No
+477,43,Male,Sharjah,4162,Citrus,Premium,18,2,No
+478,51,Female,Dubai,4745,Chocolate,Premium,10,1,Yes
+479,58,Female,Sharjah,7442,Mint,Standard,9,2,Yes
+480,24,Female,Sharjah,3591,Citrus,Premium,12,2,No
+481,21,Male,Dubai,5111,Berry,Premium,23,4,No
+482,28,Male,Ajman,7985,Mint,Premium,4,4,Yes
+483,46,Male,Sharjah,8183,Berry,Premium,11,2,No
+484,53,Female,Ajman,5930,Berry,Basic,26,2,No
+485,42,Male,Abu Dhabi,3996,Mango,Standard,26,2,No
+486,38,Male,Sharjah,7868,Chocolate,Premium,6,5,No
+487,53,Male,Ajman,3312,Mint,Basic,7,4,Yes
+488,27,Female,Ajman,3285,Berry,Basic,29,2,Yes
+489,54,Female,Abu Dhabi,6311,Mango,Basic,28,3,Yes
+490,26,Male,Ajman,9314,Citrus,Premium,18,3,No
+491,41,Male,Ajman,4383,Mint,Premium,9,5,No
+492,52,Male,Abu Dhabi,5239,Berry,Standard,18,5,No
+493,52,Male,Sharjah,4139,Chocolate,Premium,24,1,No
+494,53,Female,Ajman,8496,Mango,Premium,6,1,No
+495,35,Female,Ajman,8714,Berry,Basic,28,1,Yes
+496,56,Female,Ajman,9738,Chocolate,Standard,24,5,No
+497,49,Female,Dubai,8959,Berry,Premium,24,5,No
+498,41,Male,Abu Dhabi,3704,Mint,Premium,17,5,Yes
+499,40,Male,Dubai,8924,Mint,Basic,23,3,No
+500,49,Male,Abu Dhabi,2362,Mint,Basic,17,5,Yes
